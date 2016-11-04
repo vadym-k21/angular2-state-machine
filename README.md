@@ -1,10 +1,10 @@
-### Description
+# Description
 
 Angular 2 State Machine - Almost 100% copy of Jakes Gordon javascript-state-machine [https://github.com/jakesgordon/javascript-state-machine]
 
 You can run the example in example folder and You can find all instructions inside example repo README.
 
-### Documentation
+# Documentation
 
 State Machine is powerful tool to handle your app states. A lot of apps must handle states
 and this little service will help you to do it as easy as possible.
