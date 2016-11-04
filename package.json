@@ -10,7 +10,7 @@
     "test": "karma start",
     "prepublish": "tsc"
   },
-  "main": "angular2-state-machine.js",
+  "main": "./angular2-state-machine.js",
   "typings": "./angular2-state-machine.d.ts",
   "repository": {
     "type": "git",
