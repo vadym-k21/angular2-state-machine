@@ -30,5 +30,6 @@
   "bugs": {
     "url": "https://github.com/vadym-kukhtin/angular2-state-machine/issues"
   },
+  "module": "index.js",
   "homepage": "https://github.com/vadym-kukhtin/angular2-state-machine#readme"
 }
