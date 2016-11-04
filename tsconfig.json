@@ -10,9 +10,8 @@
     "experimentalDecorators": true
   },
   "files": [
-    "angular2-state-machine.ts",
-    "angular2-state-machine.spec.ts",
-    "../angular2-state-machine/custom.d.ts"
+    "core.ts",
+    "core.spec.ts"
   ],
   "compileOnSave": true,
   "buildOnSave": true,

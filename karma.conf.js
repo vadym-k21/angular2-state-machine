@@ -6,14 +6,14 @@ module.exports = function (config) {
         frameworks: ["jasmine"],
         // list of files / patterns to load in the browser
         files: [
-            {pattern: 'angular2-state-machine.spec.ts', watched: false}
+            {pattern: 'core.spec.ts', watched: false}
         ],
 
         // list of files / patterns to exclude
         exclude: [],
 
         preprocessors: {
-            'angular2-state-machine.spec.ts': [ 'webpack', 'sourcemap']
+            'core.spec.ts': [ 'webpack', 'sourcemap']
         },
 
 
