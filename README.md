@@ -2,8 +2,6 @@
 
 Angular 2 State Machine - Almost 100% copy of Jakes Gordon javascript-state-machine [https://github.com/jakesgordon/javascript-state-machine]
 
-You can run the example in example folder and You can find all instructions inside example repo README.
-
 # Documentation
 
 State Machine is powerful tool to handle your app states. A lot of apps must handle states
@@ -22,5 +20,6 @@ Package itself consists of two parts:
 First of all you need to import StateMachine and StateEvent from stateMachine.ts file.
 
 ```
-import {StateMachine, StateEvent} from 'angular2-state-machine';
+import {StateMachine, StateEvent} from 'angular2-state-machine/core';
 ```
+
