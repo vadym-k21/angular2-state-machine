@@ -1,0 +1,34 @@
+{
+  "name": "angular2-state-machine",
+  "version": "1.0.1",
+  "description": "Angular 2 State Machine - Angular 2 port for famous state-machine. https://github.com/jakesgordon/javascript-state-machine.",
+  "main": "index.js",
+  "directories": {
+    "example": "example"
+  },
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vadym-kukhtin/angular2-state-machine.git"
+  },
+  "keywords": [
+    "Angular2",
+    "State",
+    "Machine",
+    "handling",
+    "states",
+    "states",
+    "state",
+    "machine",
+    "ng-state-machine",
+    "ng2",
+    "angular2",
+    "port"
+  ],
+  "author": "Vadym Kukhtin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vadym-kukhtin/angular2-state-machine/issues"
+  },
+  "homepage": "https://github.com/vadym-kukhtin/angular2-state-machine#readme"
+}
