@@ -1,7 +1,4 @@
-/**
- * Created by vkukhtin on 08/08/16.
- */
-// TODO: Add possibility to add array of event.from
+"use strict";
 var StateMachine = (function () {
     function StateMachine(options) {
         var _this = this;
@@ -80,7 +77,7 @@ var StateMachine = (function () {
     };
     return StateMachine;
 }());
-StateMachine = StateMachine;
+exports.StateMachine = StateMachine;
 var StateEvent = (function () {
     function StateEvent(options) {
         this.name = options.name;
@@ -89,5 +86,4 @@ var StateEvent = (function () {
     }
     return StateEvent;
 }());
-StateEvent = StateEvent;
-//# sourceMappingURL=/Users/vkukhtin/projects/open-source/angular2-state-machine/example/src/dist/stateMachine.js.map
+exports.StateEvent = StateEvent;

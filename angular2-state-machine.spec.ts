@@ -1,7 +1,7 @@
 /**
  * Created by vkukhtin on 08/08/16.
  */
-import {StateMachine, StateEvent} from '../../../dist/stateMachine';
+import {StateMachine, StateEvent} from './angular2-state-machine';
 
 let fsm = new StateMachine({
     initial: 'green',
