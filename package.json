@@ -1,6 +1,6 @@
 {
   "name": "angular2-state-machine",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "Angular 2 State Machine - Angular 2 port for famous state-machine. https://github.com/jakesgordon/javascript-state-machine.",
   "main": "dist/stateMachine.js",
   "directories": {
