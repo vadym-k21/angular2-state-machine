@@ -2,6 +2,12 @@
 
 Angular 2 State Machine - Almost 100% copy of Jakes Gordon javascript-state-machine [https://github.com/jakesgordon/javascript-state-machine]
 
+# NPM Package:
+ 
+ ```
+npm i angular2-state-machine
+```
+
 # Documentation
 
 State Machine is powerful tool to handle your app states. A lot of apps must handle states
