@@ -2,6 +2,8 @@
 
 Angular 2 State Machine - Almost 100% copy of Jakes Gordon javascript-state-machine [https://github.com/jakesgordon/javascript-state-machine]
 
+**Not actively supporting anymore** Can be used as guide of applying state machine on Angular 2.
+
 # NPM Package:
  
  ```
